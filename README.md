@@ -30,6 +30,6 @@ An interactive HR analytics dashboard built in Power BI to visualize and analyze
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.jpg)
+![Dashboard Preview](Dashboard.jpg)
 
 
