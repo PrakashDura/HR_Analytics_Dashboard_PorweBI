@@ -20,7 +20,7 @@ An interactive HR analytics dashboard built in Power BI to visualize and analyze
 ## 📂 Files
 - `Final_Project.pbix`: Power BI dashboard file
 - `HR_Data.xlsx`: Raw dataset used for analysis
-- `images/dashboard-preview.jpg`: Snapshot of the dashboard layout
+- `Dashboard.jpg`: Snapshot of the dashboard layout
 
 ## 🔍 Key Insights
 - Employees earning less than $5K had the highest attrition rate.
